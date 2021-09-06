@@ -26,7 +26,7 @@ git checkout standard_setup
 vagrant up
 vagrant ssh
 ```
-* Create the cgroup folders as root
+* Create the cgroup folders (as root)
 ``` sh
 sudo su -
 cd /sys/fs/cgroup
